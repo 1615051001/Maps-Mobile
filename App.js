@@ -110,7 +110,7 @@ const styles = StyleSheet.create({
       flex : 1
   },
   contHeader: {
-    backgroundColor: 'green',
+    backgroundColor: '#FF6600',
     alignItems: 'center',
     justifyContent: 'center',
     flex: 1,
@@ -126,7 +126,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   contFooter: {
-    backgroundColor: 'green',
+    backgroundColor: '#FF6600',
     alignItems: 'center',
     justifyContent: 'center',
     flex: 1,
