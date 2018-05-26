@@ -16,8 +16,8 @@ export default class App extends Component {
       {
         key:1,
         latlng: {
-          latitude:-8.142070,
-          longitude: 115.096391
+          latitude:-8.109026, 
+          longitude: 115.080910
         },
         title: 'Edutel Undiksha',
         subtitle: 'Jatayu Street No 5, 81116 Singaraja,Indonesia, Singaraja,Buleleng,Bali, Indonesia,81116'
@@ -25,8 +25,8 @@ export default class App extends Component {
       {
         key:2,
         latlng: {
-          latitude:-8.117259,
-          longitude: 115.161429
+          latitude:-8.127980, 
+          longitude: 115.061230
         },
         title: 'Puri Bagus Lovina',
         subtitle: 'Jalan Raya Singaraja Seririt Desa Pemaron Lovina Singaraja, Singaraja, Buleleng,Bali, Indonesia,81151'
@@ -34,8 +34,8 @@ export default class App extends Component {
       {
         key:3,
         latlng: {
-          latitude:-8.163638,
-          longitude: 115.106392
+          latitude:-8.115319, 
+          longitude: 115.080685
         },
         title: 'Grand Wijaya',
         subtitle: 'Jalan Jendral Sudirman No.74, Singaraja - Bali, Singaraja, Buleleng, Bali, Indonesia,81116'
@@ -44,8 +44,8 @@ export default class App extends Component {
       {
         key:4,
         latlng: {
-          latitude:-8.184105,
-          longitude: 115.117730
+          latitude:-8.102592, 
+          longitude: 115.090732
         },
         title: 'POP Hotel Hardys Singaraja Square',
         subtitle: 'Jalan Surapati No. 12-14, Singaraja, Buleleng, Bali, Indonesia,81113'
@@ -53,8 +53,8 @@ export default class App extends Component {
       {
         key:5,
         latlng: {
-          latitude:-8.184105,
-          longitude: 115.117730
+          latitude:-8.110197, 
+          longitude: 115.087489
         },
         title: 'Hotel Sentral Bali',
         subtitle: 'Jalan Jenderal A.Yani N.48, Singaraja - Bali, Singaraja, Buleleng, Bali, Indonesia,81116'
@@ -62,8 +62,8 @@ export default class App extends Component {
       {
         key:4,
         latlng: {
-          latitude:-8.184105,
-          longitude: 115.117730
+          latitude:-8.133147, 
+          longitude: 115.05705
         },
         title: 'Puri Saron Baruna Beach Cottages',
         subtitle: 'Desa Pemaron, Singaraja, Buleleng, Bali, Indonesia,81151'
