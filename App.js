@@ -16,8 +16,8 @@ export default class App extends Component {
       {
         key:1,
         latlng: {
-          latitude:-8.109026, 
-          longitude: 115.080910
+          latitude:-8.108984, 
+          longitude: 115.080921 
         },
         title: 'Edutel Undiksha',
         subtitle: 'Jatayu Street No 5, 81116 Singaraja,Indonesia, Singaraja,Buleleng,Bali, Indonesia,81116'
@@ -25,8 +25,8 @@ export default class App extends Component {
       {
         key:2,
         latlng: {
-          latitude:-8.127980, 
-          longitude: 115.061230
+          latitude:-8.127874,  
+          longitude: 115.061165
         },
         title: 'Puri Bagus Lovina',
         subtitle: 'Jalan Raya Singaraja Seririt Desa Pemaron Lovina Singaraja, Singaraja, Buleleng,Bali, Indonesia,81151'
@@ -34,8 +34,8 @@ export default class App extends Component {
       {
         key:3,
         latlng: {
-          latitude:-8.115319, 
-          longitude: 115.080685
+          latitude:-8.115341, 
+          longitude: 115.080696
         },
         title: 'Grand Wijaya',
         subtitle: 'Jalan Jendral Sudirman No.74, Singaraja - Bali, Singaraja, Buleleng, Bali, Indonesia,81116'
@@ -44,8 +44,8 @@ export default class App extends Component {
       {
         key:4,
         latlng: {
-          latitude:-8.102592, 
-          longitude: 115.090732
+          latitude:-8.102539, 
+          longitude: 115.090775
         },
         title: 'POP Hotel Hardys Singaraja Square',
         subtitle: 'Jalan Surapati No. 12-14, Singaraja, Buleleng, Bali, Indonesia,81113'
@@ -62,8 +62,8 @@ export default class App extends Component {
       {
         key:4,
         latlng: {
-          latitude:-8.133147, 
-          longitude: 115.05705
+          latitude:-8.133094, 
+          longitude: 115.057057 
         },
         title: 'Puri Saron Baruna Beach Cottages',
         subtitle: 'Desa Pemaron, Singaraja, Buleleng, Bali, Indonesia,81151'
